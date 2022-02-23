@@ -10,4 +10,4 @@ www.linkedin.com/in/ariel-dumagan
 
 https://github.com/Dumagana
 
-email: ariel.dumagan@gmail.com
+ariel.dumagan@gmail.com
